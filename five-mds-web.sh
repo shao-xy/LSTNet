@@ -1,0 +1,1 @@
+python3 main.py --data="data/mds-web-trace.txt" --normalize=1 --horizon=1 --save="save/mds-web-trace" --window=48 --test --savehistory --predict=all --plot --series-to-plot=125 --autocorrelation=125 --save-plot=web --logfilename="log/lstnet" --debuglevel=20

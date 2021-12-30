@@ -1,0 +1,13 @@
+__pycache__
+log
+figs
+save
+data
+
+# Vim files
+*.swp
+*.swo
+*.swn
+
+# VS Code files
+.vscode

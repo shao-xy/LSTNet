@@ -1,0 +1,1 @@
+python3 main.py --data="data/five-mds-seven-ai.txt" --horizon=1 --save="save/five-mds-seven-ai" --window=48 --test --savehistory --predict=all --plot --series-to-plot=125 --autocorrelation=125 --save-plot=fivemds --logfilename="log/lstnet" --debuglevel=20

@@ -1,3 +1,10 @@
+# LSTNet forked for Daniel
+This repository is forked from [fbadine/LSTNet](https://github.com/fbadine/LSTNet.git). We use this to store our own modifications.
+
+Below is the original README file from the forked project.
+
+---
+
 # LSTNet
 This repository is a Tensorflow / Keras implementation of __*Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks*__ paper https://arxiv.org/pdf/1703.07015.pdf
 
